@@ -1,6 +1,6 @@
 Welcome to @ZaccaraLab github
 
-We're still in development - stay tuned for udpates!
+Our profile is still in development - stay tuned for udpates!
 
 
 https://www.zaccaralab.com/
